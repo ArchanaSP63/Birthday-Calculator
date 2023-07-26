@@ -1,5 +1,5 @@
 .card{
-    width: 700px;
+    width: 500px;
     height: 500px;
     border-radius: 5px;
     box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
@@ -12,7 +12,7 @@
     left: 5%;
 }
 .card-text{
-    font-size: 100px;
+    font-size: 80px;
     font: bold;
 }
 #quote{
